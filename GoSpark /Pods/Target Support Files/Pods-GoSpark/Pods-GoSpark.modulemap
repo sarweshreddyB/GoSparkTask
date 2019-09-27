@@ -1,0 +1,6 @@
+module Pods_GoSpark [system] {
+  umbrella header "Pods-GoSpark-umbrella.h"
+
+  export *
+  module * { export * }
+}
